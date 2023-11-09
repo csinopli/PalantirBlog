@@ -2,7 +2,7 @@
 name: PALANTIR PROJECT BLOG
 baseurl: /PalantirBlog
 
-avatar: /images/logo-palantir.png
+avatar: ./images/logo-palantir.png
 
 permalink: /:title/
 
